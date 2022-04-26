@@ -1,0 +1,46 @@
+[
+    {   "course_number":"MATH-1350",
+        "course_name": "Statistics for IT", 
+        "Description": "Using statistics for data analysis",
+        "credits": "4",
+        "Pre-requisites": ""
+    },
+    {   "course_number":"ACIT-2420",
+        "course_name": "Linux Systems Administration", 
+        "Description": "Learn how to use linux command line and VIM",
+        "credits": "4",
+        "Pre-requisites": "ACIT-1420"
+    },
+    {  "course_number":"ACIT-2520",
+        "course_name": "Developing Web Applications", 
+        "Description": "Creating Web Applications using React, Node JS, JavaScript, Typescript and Express",
+        "credits": "4",
+        "Pre-requisites": "ACIT-1515 | ACIT 1620"
+    },
+    
+    {   "course_number":"ACIT-2515",
+        "course_name": "Object Oriented Programming", 
+        "Description": "Using Python and Flask to learn Object Oriented Programming",
+        "credits": "4",
+        "Pre-requisites": "ACIT-1515"
+    },
+    {   "course_number":"ACIT-2831",
+        "course_name": "Business Systems Analysis", 
+        "Description": "Analysis businesses, their requirements and systems in the IT world",
+        "credits": "4",
+        "Pre-requisites": "ORGB-1100"
+    },
+    {   "course_number":"ACIT-2620",
+        "course_name": "Principles of Enterprise Networking", 
+        "Description": "Configuring networks in a VM and learning about different networks and the tools to configure them.",
+        "credits": "4",
+        "Pre-requisites": "ACIT-1420 | MATH-1420"
+    },
+    {   "course_number":"COMM-2216",
+        "course_name": "Business Communications 2", 
+        "Description": "Communicating in professionally in the business world",
+        "credits": "4",
+        "Pre-requisites": "COMM-1116"
+    }
+
+]
